@@ -27,3 +27,5 @@ follow steps on GitHub to initialize a repo and link it from local to remote
 
 // New additional workflow:
 // 1. `git pull` from branch we need to work with
+
+// NOTE: if we want someone else's remote branch, `git fetch`
